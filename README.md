@@ -4,7 +4,7 @@
 
 #### What I can do?
 - 💻Coding Typescript & Python(little)
-- Speak English(little)
+- Reactjs & Vuejs
 
 #### I'm Currently Learning...
 - I'm learning Any Languages(Not Programming!)
@@ -12,9 +12,7 @@
   - Chinese(中文)
 - At Programming Language...
   - C++
-  - Dart
   - Go
-  - Rust
 
 #### My Fun facts are ...
 - Play Games🎮
